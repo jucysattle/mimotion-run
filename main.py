@@ -95,7 +95,7 @@ class MiMotion():
             return
 
     @staticmethod
-    def login(user, password):
+    def login(2217173240@qq.com, 20040318yxy):
         try:
             url1 = f"https://api-user.huami.com/registrations/{user}/tokens"
             headers = {
